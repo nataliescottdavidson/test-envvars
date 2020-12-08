@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 const IndexPage = () => (
   <Layout>
     <h2>
-      🤓👽🤪🤓 mr potat  a
+      🤓👽🤪🤓 mr potat  adml;zjdflajdf
       This site shows multiple ways of using ENV variables as shown in the{' '}
       <a href="https://www.gatsbyjs.org/docs/environment-variables">
         documentation
